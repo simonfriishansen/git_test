@@ -1,1 +1,2 @@
-Hi all!
+Hi all! 
+Making this change just to make a commit without a message to see if VSC will now prompt me to add a commit message.
